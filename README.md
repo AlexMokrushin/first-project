@@ -1,8 +1,8 @@
 # Шпаргалка по GIT
 
-'''marmaid
+```mermaid
 graph LR;
     untracked -- "git add" --> staged;
     staged -- "git commit" --> tracked/comitted;
-'''
+```
 
